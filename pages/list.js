@@ -24,7 +24,7 @@ export default function MyList(list) {
         <Col className="comm-left" xs={24} sm={24} md={16} lg={18} xl={14}>
           <div className="bread-div">
             <Breadcrumb>
-              <Breadcrumb.Item><a href="/">首页</a></Breadcrumb.Item>
+              <Breadcrumb.Item><a href="/">首</a></Breadcrumb.Item>
               <Breadcrumb.Item>视频教程</Breadcrumb.Item>
             </Breadcrumb>
           </div>
@@ -33,7 +33,7 @@ export default function MyList(list) {
             dataSource={mylist}
             itemLayout="vertical"
             renderItem={item => (
-              <List.Item>
+              <List.Item >
                 <div className="list-title">
                   <Link href={{ pathname: '/detailed', query: { id: item.id } }}>
                     <a>

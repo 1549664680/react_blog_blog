@@ -21,6 +21,10 @@ body{
   font-size:1.3rem;
   color: #1e90ff;
   padding: 0 0.5rem;
+
+}
+.list-title :hover{ 
+  font-size:2rem;
 }
 .list-context{
   color:#777;

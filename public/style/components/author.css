@@ -14,3 +14,26 @@
   margin-left: .5rem;
   margin-right: .5rem;
 }
+.qq{
+  color: blue;
+}
+.git{
+  color: black;
+}
+.wechat{
+  color: green;
+}
+.qq,.git,.wechat :hover{
+  cursor: pointer;
+}
+.qqa img,.wechata img{
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 125px;
+  height: 200px;
+}
+.qqa:hover img,.wechata:hover img{
+  display: block;
+}
