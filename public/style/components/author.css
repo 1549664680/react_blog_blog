@@ -29,9 +29,9 @@
 .qqa img,.wechata img{
   display: none;
   position: absolute;
-  top: 0;
+  top: 50px;
   left: 50px;
-  width: 125px;
+  width: 140px;
   height: 200px;
 }
 .qqa:hover img,.wechata:hover img{

@@ -17,14 +17,17 @@ body{
 .comm-main{
   margin-top: 3.8rem;
 }
+.comm-box{
+  background-color: #FFF;
+  margin-left: .5rem;
+  padding:.3rem;
+  border-radius: .3rem;
+  border:1px solid #eee;
+}
 .list-title{
   font-size:1.3rem;
   color: #1e90ff;
   padding: 0 0.5rem;
-
-}
-.list-title :hover{ 
-  font-size:2rem;
 }
 .list-context{
   color:#777;
@@ -37,4 +40,7 @@ body{
 .list-icon span{
   display: inline-block;
   padding: 0 10px;
+}
+.hot {
+  color: #f0732e
 }
