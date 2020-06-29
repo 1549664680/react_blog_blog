@@ -5,7 +5,7 @@ const Author = () => {
   return (
     <div className="author-div comm-box">
       <div>
-        <Avatar size={100} src="http://a1.qpic.cn/psc?/V111DTaP0fnaJ7/IuPP.iXwoDzL23w4nRtQcmF23OBoap9mMPAX4jLKU7d1.8kDlXImeVAl2cT0NW1XsRKhX6D2QvHnwGprxGry1w!!/c&ek=1&kp=1&pt=0&bo=6APoAwAAAAARFyA!&tl=3&vuin=1549664680&tm=1591704000&sce=60-2-2&rf=0-0" />
+        <Avatar size={100} src="https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/c8cbcee5d3d196134d3a9c73b3c8d3b8778369de6715b210a4ffd6531a986fe1f4eb1aee05db5810ade667f4dcc6f48e?pictype=scale&from=30013&version=3.3.3.3&uin=1549664680&fname=psc.webp&size=750" />
       </div>
       <div className="author-introduction">
         <div>大三在校生</div>
